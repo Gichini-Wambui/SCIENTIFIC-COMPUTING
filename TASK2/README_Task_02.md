@@ -1,11 +1,5 @@
 # Task 2: NumPy Arrays and Numerical Computation
 
-**Course:** BIT 2118 Scientific Computing
-**Student name:** ______________  **Reg. No.:** ______________
-**Program files:** `Task_02_numpy_arrays.py`, `Task_02_modified_vaccine_fridge.py`
-
----
-
 ## B. Inputs and mathematical operations
 
 **Input values**
@@ -82,7 +76,4 @@ Peak temperature in F: 49.6 F
 
 ---
 
-## Repository checklist
-- [ ] `Task_02/` folder pushed to **your own** GitHub repo
-- [ ] Both `.py` files and this README included
-- [ ] GitHub link uploaded on VLMS
+
