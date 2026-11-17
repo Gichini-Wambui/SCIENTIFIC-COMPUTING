@@ -1,11 +1,5 @@
 # Task 4: Floating-Point Arithmetic and Numerical Errors
 
-**Course:** BIT 2118 Scientific Computing
-**Student name:** ______________  **Reg. No.:** ______________
-**Program files:** `Task_04_numerical_errors.py`, `Task_04_modified_banking.py`
-
----
-
 ## B. Inputs and mathematical operations
 
 **Input values**
@@ -103,11 +97,6 @@ Ledger == bank (round to cents)? True
 - The naive sum is off by about 0.0000013 KES after a million additions. Each addition adds a tiny round-off error, and these **accumulate**. The error is tiny here, but it would grow with more transactions, and it makes an exact equality check fail.
 - `math.fsum`, `Decimal` and integer cents all give exactly 100,000.00.
 - The ledger check shows the practical danger: `0.1 + 0.2 == 0.3` is `False`, so a program comparing balances with `==` could wrongly flag a mismatch. Rounding to cents, or comparing with a tolerance, fixes this.
-- **Recommendation:** financial software should store money as integers (cents) or `Decimal`, never as plain floats, and should compare values with a tolerance.
 
----
 
-## Repository checklist
-- [ ] `Task_04/` folder pushed to **your own** GitHub repo
-- [ ] Both `.py` files and this README included
-- [ ] GitHub link uploaded on VLMS
+
