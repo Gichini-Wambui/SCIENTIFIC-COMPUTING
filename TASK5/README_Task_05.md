@@ -1,12 +1,5 @@
 # Task 5: Matrix Algebra and Matrix Operations
 
-**Course:** BIT 2118 Scientific Computing
-**Student name:** ______________  **Reg. No.:** ______________
-**Program files:** `Task_05_matrix_algebra.py`, `Task_05_modified_land_survey.py`
-**Graph:** `land_survey_plot.png`
-
----
-
 ## B. Inputs and mathematical operations
 
 **Input values**
@@ -109,9 +102,3 @@ Round trip recovers original map points: True
 - `Round trip recovers original map points: True` confirms the inverse matrix correctly undoes the conversion, which is needed to plot ground survey data back onto the map.
 - The same approach is used in GIS software, computer graphics, and robot navigation.
 
----
-
-## Repository checklist
-- [ ] `Task_05/` folder pushed to **your own** GitHub repo
-- [ ] Both `.py` files, `land_survey_plot.png` and this README included
-- [ ] GitHub link uploaded on VLMS
