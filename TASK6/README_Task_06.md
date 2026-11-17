@@ -1,10 +1,5 @@
 # Task 6: Solution of Systems of Linear Equations
 
-**Course:** BIT 2118 Scientific Computing
-**Student name:** ______________  **Reg. No.:** ______________
-**Program files:** `Task_06_linear_systems.py`, `Task_06_modified_circuit_analysis.py`
-
----
 
 ## B. Inputs and mathematical operations
 
@@ -104,10 +99,3 @@ Power supplied by sources:     5815.385 mW
 - The residual norm (about 10⁻¹⁶) is zero apart from floating-point round-off (see Task 4), so the solution satisfies all three equations.
 - The determinant (52,000) is non-zero, so the circuit has a unique solution. The condition number (8.5) is small, so the system is well-conditioned: small errors in resistor values will not cause large errors in the currents.
 - **Energy check:** power dissipated in the resistors (5815.385 mW) equals power supplied by the sources (5815.385 mW), as the law of conservation of energy requires. This is an independent confirmation that the solution is correct.
-
----
-
-## Repository checklist
-- [ ] `Task_06/` folder pushed to **your own** GitHub repo
-- [ ] Both `.py` files and this README included
-- [ ] GitHub link uploaded on VLMS
