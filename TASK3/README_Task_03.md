@@ -1,11 +1,5 @@
 # Task 3: Mathematical Functions and Vectorization
 
-**Course:** BIT 2118 Scientific Computing
-**Student name:** ______________  **Reg. No.:** ______________
-**Program files:** `Task_03_vectorization.py`, `Task_03_modified_electricity_billing.py`
-
----
-
 ## B. Inputs and mathematical operations
 
 **Input values**
@@ -90,7 +84,3 @@ Approximate speed-up: 13.0x
 
 ---
 
-## Repository checklist
-- [ ] `Task_03/` folder pushed to **your own** GitHub repo
-- [ ] Both `.py` files and this README included
-- [ ] GitHub link uploaded on VLMS
