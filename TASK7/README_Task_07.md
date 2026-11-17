@@ -1,11 +1,5 @@
 # Task 7: Gaussian Elimination and LU Decomposition
 
-**Course:** BIT 2118 Scientific Computing
-**Student name:** ______________  **Reg. No.:** ______________
-**Program files:** `Task_07_gaussian_lu.py`, `Task_07_modified_structural_load_cases.py`
-
----
-
 ## B. Inputs and mathematical operations
 
 **Input values**
@@ -111,9 +105,3 @@ Heaviest load case total: 13502 N
 - The free end moves 31 mm on average and 34 mm at most across all load cases. A designer would compare this with an allowable deflection limit to decide whether the structure is safe.
 - Because K is a model assumption, this is a simplified teaching model and not a design calculation for a real structure.
 
----
-
-## Repository checklist
-- [ ] `Task_07/` folder pushed to **your own** GitHub repo
-- [ ] Both `.py` files and this README included
-- [ ] GitHub link uploaded on VLMS
